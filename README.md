@@ -52,7 +52,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "joao.victor@hotmail.com",
   "senha":"123456"
 }
 ```
